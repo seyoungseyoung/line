@@ -1,0 +1,17 @@
+{
+    "best_params": {
+        "sr_window": 5,
+        "reg_window": 15,
+        "future_days": 10,
+        "stop_loss_pct": 0.008,
+        "num_top_features": 5,
+        "trend_ma_short": 30,
+        "trend_ma_long": 45,
+        "trend_threshold": 0.016
+    },
+    "best_value": 71.74720142855462,
+    "trial_number": 35,
+    "datetime": "20250419_232957",
+    "n_trials": 100,
+    "n_valid_trials": 100
+}
