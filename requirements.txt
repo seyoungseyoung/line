@@ -1,0 +1,23 @@
+# Core data science libraries
+pandas==2.2.3
+numpy==2.2.4
+scipy==1.15.2
+
+# Machine Learning & Optimization
+scikit-learn==1.6.1
+optuna==3.5.0
+joblib==1.4.2
+
+# Data fetching
+yfinance==0.2.55
+
+# Utilities
+tqdm==4.67.1
+
+# Technical Analysis (imported in analysis.py or ml_features.py)
+# Assuming 'ta' is the library used, based on pip list output
+ta==0.11.0
+
+# Optional: Visualization (if used, e.g., in commented-out code)
+# matplotlib==3.10.1
+# plotly==6.0.1 
